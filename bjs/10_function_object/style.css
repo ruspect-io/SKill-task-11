@@ -1,0 +1,11 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.card-header {
+    background-color: crimson;
+}
+
+.card-body {
+    background-color: darkgoldenrod;
+}
